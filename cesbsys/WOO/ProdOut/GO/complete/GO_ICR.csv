@@ -1,0 +1,4 @@
+order-id,order-item-id,purchase-date,payments-date,buyer-email,buyer-name,buyer-phone-number,sku,variation-sku,product-name,quantity-purchased,currency,item-price,item-tax,shipping-price,shipping-tax,ship-service-level,recipient-name,ship-address-1,ship-address-2,ship-address-3,ship-city,ship-state,ship-postal-code,ship-country,ship-phone-number,delivery-start-date,delivery-end-date,delivery-time-zone,delivery-Instructions,sales-channel
+18,2,2016-12-21T08:01:29Z,,archirayan39@gmail.com,Archi,1234567890,TEST2.3,,"Test Product 2",1,USD,18.00,0.00,,,,Archi,"Test Address",,,"Test City",NY,10001,US,,,,,,Woocommerce
+18,3,2016-12-21T08:01:29Z,,archirayan39@gmail.com,Archi,1234567890,TEST1,,"Test Product 1",2,USD,15.00,0.00,,,,Archi,"Test Address",,,"Test City",NY,10001,US,,,,,,Woocommerce
+12,1,2016-12-21T06:16:00Z,,archirayan39@gmail.com,Archi,1234567890,TEST1,,"Test Product 1",1,USD,15.00,0.00,,,,Archi,"Test Address",,,"Test City",NY,10001,US,,,,,,Woocommerce

@@ -1,0 +1,10 @@
+sku,variation-sku,category,title,price,quantity,variation-detail,short-description,long-description,image-url,length,width,height
+,ABC1,Clothings,ABC Product 1,200,50,Size=S;M;L;XL;XXL|Color=Red;Green;Black;White,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg|http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC2,,Clothings,ABC Product 2,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC3,,Clothings,ABC Product 3,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC4,,Clothings,ABC Product 4,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC5,,Clothings,ABC Product 5,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC6,,Clothings,ABC Product 6,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC7,,Clothings,ABC Product 7,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC8,,Clothings,ABC Product 8,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5
+ABC9,,Clothings,ABC Product 9,200,50,,Short description goes here,Long description goles here,http://easydatasearch.com/easydata1/bigcommerce_c_ESB/img/Snowflake-Background.jpg,2,1,5

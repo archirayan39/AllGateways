@@ -1,0 +1,5 @@
+sku,price,quantity,gw_result
+ABC1,200,5,success
+ABC2,25,6,success
+ABC3,90,10,success
+ABC4,55,1,success
